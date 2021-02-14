@@ -59,3 +59,59 @@ div {
 
 }
 
+@media(min-width: 768px) {
+  .a{
+
+    background-color: cadetblue ;
+
+}
+
+.b{
+
+     background-color: cyan;
+
+}
+
+.c{
+
+  background-color:darkgoldenrod ;
+
+
+}
+
+.d{
+
+  background-color: darkkhaki;
+}
+
+.e{
+
+  background-color: darkslategray;
+
+
+}
+
+.f{
+
+  background-color: dimgray;
+
+}
+
+.g{
+  background-color: firebrick;
+
+}
+
+.h{
+
+  background-color: gold;
+
+}
+
+.i{
+
+  background-color: hotpink;
+
+
+}
+}
