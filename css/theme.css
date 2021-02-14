@@ -1,0 +1,61 @@
+div {
+  background-color: rgb(216, 216, 216);
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+.a{
+
+    background-color: lightblue ;
+
+}
+
+.b{
+
+     background-color: lightcyan;
+
+}
+
+.c{
+
+  background-color:lightseagreen ;
+
+
+}
+
+.d{
+
+  background-color: lightpink;
+}
+
+.e{
+
+  background-color: lightyellow;
+
+
+}
+
+.f{
+
+  background-color: maroon;
+
+}
+
+.g{
+  background-color: lightslategray;
+
+}
+
+.h{
+
+  background-color: lightgoldenrodyellow;
+
+}
+
+.i{
+
+  background-color: lightgreen;
+
+
+}
+
