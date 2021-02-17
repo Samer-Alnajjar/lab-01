@@ -1,7 +1,7 @@
 div {
   background-color: rgb(216, 216, 216);
   border: 1px solid black;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 
 .a{
@@ -111,6 +111,63 @@ div {
 .i{
 
   background-color: hotpink;
+
+
+}
+}
+
+@media(min-width:992px) {
+  .a{
+
+    background-color: blue ;
+
+}
+
+.b{
+
+     background-color: coral;
+
+}
+
+.c{
+
+  background-color:crimson ;
+
+
+}
+
+.d{
+
+  background-color: darkgrey;
+}
+
+.e{
+
+  background-color: deepskyblue;
+
+
+}
+
+.f{
+
+  background-color: gold;
+
+}
+
+.g{
+  background-color: greenyellow;
+
+}
+
+.h{
+
+  background-color: indigo;
+
+}
+
+.i{
+
+  background-color: lawngreen;
 
 
 }
