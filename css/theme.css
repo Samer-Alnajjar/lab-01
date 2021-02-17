@@ -59,6 +59,63 @@ div {
 
 }
 
+@media(min-width: 576px) {
+  .a{
+
+    background-color: blue ;
+
+}
+
+.b{
+
+     background-color: coral;
+
+}
+
+.c{
+
+  background-color:crimson ;
+
+
+}
+
+.d{
+
+  background-color: darkgrey;
+}
+
+.e{
+
+  background-color: deepskyblue;
+
+
+}
+
+.f{
+
+  background-color: gold;
+
+}
+
+.g{
+  background-color: greenyellow;
+
+}
+
+.h{
+
+  background-color: indigo;
+
+}
+
+.i{
+
+  background-color: lawngreen;
+
+
+}
+}
+
 @media(min-width: 768px) {
   .a{
 
@@ -116,59 +173,3 @@ div {
 }
 }
 
-@media(min-width:992px) {
-  .a{
-
-    background-color: blue ;
-
-}
-
-.b{
-
-     background-color: coral;
-
-}
-
-.c{
-
-  background-color:crimson ;
-
-
-}
-
-.d{
-
-  background-color: darkgrey;
-}
-
-.e{
-
-  background-color: deepskyblue;
-
-
-}
-
-.f{
-
-  background-color: gold;
-
-}
-
-.g{
-  background-color: greenyellow;
-
-}
-
-.h{
-
-  background-color: indigo;
-
-}
-
-.i{
-
-  background-color: lawngreen;
-
-
-}
-}
